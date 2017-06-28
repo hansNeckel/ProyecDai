@@ -1,0 +1,17 @@
+body{
+                padding:20px;
+                margin:20px 20px 20px 20px ;
+                font-size: 16px;
+                font-family:Arial;
+                background-color:lightblue;               
+}
+
+
+
+.menu{
+                width: 50%;
+                height: 50px;
+                background-color: #cccccc;
+                margin: auto ;
+                border:4px inset red;
+}
