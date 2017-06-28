@@ -6,7 +6,7 @@
           
                 <link href="../css/style.css" rel="stylesheet" type="text/css"/>
 		<h1>Login</h1>
-                <form method="POST" action="VerificarLogin.php">
+                <form method="POST" action="../lib/VerificarLogin.php">
 		<table>
 		<tr>
 		<td><input type="text" required name="nombre" placeholder="Correo"/></td>
