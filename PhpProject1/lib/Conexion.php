@@ -6,7 +6,7 @@ class Conexion{
     var $dbusr="root";
     var $dbpwd="avaras08";
     var $dbhost="localhost";
-    var $dbname="taxisdelujo";
+    var $dbname="mydb";
     
     public function Conectar(){
          $this->objconn = new mysqli($this->dbhost,
